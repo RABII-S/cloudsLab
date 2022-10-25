@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'rabii4clouds'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E80ED57203594E0F9C330F40220164BD }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3A92E285D2FF40BDAEE55BE77CBE1894 }}
           package: .
